@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋, I’m Darwish Irfan bin Zulhailmy
 
-<!--
-**wishwhitehat/wishwhitehat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student | Cybersecurity enthusiast
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 About Me
+I’m passionate about building reliable software and exploring the world of cybersecurity. I enjoy solving problems, learning new technologies, and continuously improving my technical skills.
+	•	🔭 Currently working on: university projects & freelance ethical hacking
+	•	🌱 Currently learning: Software Maintenance and Evolution
+	•	🎯 Goal: To gain hands-on experience in managing and improving existing software systems
+	•	📫 Find me on Credly: https://www.credly.com/users/darwish-irfan-bin-zulhailmy
+
+⸻
+
+💡 “The best way to predict the future is to create it.”
